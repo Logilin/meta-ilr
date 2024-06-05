@@ -21,3 +21,4 @@ IMAGE_INSTALL:append = ' trace-cmd'
 
 IMAGE_INSTALL:append = ' ilr-examples'
 
+PREFERRED_VERSION_linux-raspberrypi = "5.15%"
